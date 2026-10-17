@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+pypdf
+langchain-text-splitters
+langchain-groq
+langgraph
+openai
+python-dotenv
+nltk
+rouge-score
+bert-score
+torch

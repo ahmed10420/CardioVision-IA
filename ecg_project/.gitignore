@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+outputs/*
+!outputs/.gitkeep
+models/M3/nnUNet_results/
+*.log

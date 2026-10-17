@@ -1,0 +1,345 @@
+[
+  {
+    "id": 1,
+    "category": "guideline",
+    "question": "Quels sont les critères ECG de diagnostic de la fibrillation atriale selon les recommandations ESC ?",
+    "reference_answer": "1. Réponse directe\nLe diagnostic de fibrillation atriale repose sur une documentation ECG montrant l’absence d’ondes P répétitives discernables et des intervalles RR irréguliers lorsque la conduction auriculo-ventriculaire n’est pas altérée. Un ECG 12 dérivations ou un tracé ECG monodérivation d’au moins 30 secondes peut établir la fibrillation atriale clinique.\n\n2. Critères cliniques et ECG\n- Documentation ECG requise\n- Absence d’ondes P répétitives discernables\n- Intervalles RR irréguliers\n- Conduction auriculo-ventriculaire non altérée\n- ECG 12 dérivations ou tracé monodérivation d’au moins 30 secondes\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ESC.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ESC"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 2,
+    "category": "guideline",
+    "question": "Quelle confirmation électrocardiographique est recommandée avant d'établir le diagnostic de fibrillation atriale ?",
+    "reference_answer": "1. Réponse directe\nLe diagnostic de fibrillation atriale clinique doit être confirmé par un électrocardiogramme. Cette confirmation peut être obtenue par un ECG 12 dérivations ou par un tracé ECG monodérivation d’au moins 30 secondes montrant l’absence d’ondes P répétitives discernables et des intervalles RR irréguliers lorsque la conduction auriculo-ventriculaire n’est pas altérée.\n\n2. Critères cliniques et ECG\n- Confirmation par ECG\n- ECG 12 dérivations ou tracé monodérivation d’au moins 30 secondes\n- Absence d’ondes P répétitives discernables\n- Intervalles RR irréguliers\n- Conduction auriculo-ventriculaire non altérée\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ESC.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ESC"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 3,
+    "category": "guideline",
+    "question": "Quels sont les principaux critères ECG utilisés pour reconnaître un syndrome coronarien aigu avec sus-décalage du segment ST ?",
+    "reference_answer": "1. Réponse directe\nUn syndrome coronarien aigu avec sus-décalage du segment ST est reconnu par un sus-décalage persistant du segment ST mesuré au point J dans des dérivations contiguës, avec des seuils dépendant notamment de la dérivation, de l’âge et du sexe.\n\n2. Critères cliniques et ECG\n- Sus-décalage persistant du segment ST\n- Mesure au point J\n- Dérivations contiguës\n- Seuils dépendant de la dérivation, de l’âge et du sexe\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ESC.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ESC"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 4,
+    "category": "guideline",
+    "question": "Quel est le rôle de l'ECG dans l'évaluation initiale d'un syndrome coronarien aigu selon les recommandations ESC ?",
+    "reference_answer": "1. Réponse directe\nL’ECG 12 dérivations au repos est l’outil diagnostique de première intention chez un patient avec suspicion de syndrome coronarien aigu. Il doit être obtenu rapidement au premier contact médical, interprété dans les 10 minutes et répété si nécessaire selon l’évolution clinique.\n\n2. Critères cliniques et ECG\n- ECG 12 dérivations au repos\n- Réalisation rapide au premier contact médical\n- Interprétation dans les 10 minutes\n- Répétition si nécessaire selon l’évolution\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ESC.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ESC"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 5,
+    "category": "guideline",
+    "question": "Quels critères ECG sont associés aux arythmies ventriculaires dans les recommandations ESC ?",
+    "reference_answer": "1. Réponse directe\nLes recommandations ESC associent plusieurs anomalies ECG à l’évaluation des arythmies ventriculaires : anomalies de conduction auriculo-ventriculaire, ondes Q, complexe QRS large, déviations du segment ST ou de l’onde T, voltages anormalement élevés ou faibles, ainsi que certains profils spécifiques comme le pattern de Brugada, un intervalle QT long ou court et des arythmies ventriculaires polymorphes ou bidirectionnelles induites par l’effort.\n\n2. Critères cliniques et ECG\n- Anomalies de conduction auriculo-ventriculaire\n- Ondes Q\n- QRS large\n- Déviations ST/T\n- Voltages anormaux\n- Pattern de Brugada\n- QT long ou court\n- Arythmies polymorphes ou bidirectionnelles à l’effort\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ESC.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ESC"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 6,
+    "category": "guideline",
+    "question": "Quel est le rôle de l'ECG 12 dérivations dans l'évaluation d'un patient présentant une suspicion d'arythmie ventriculaire ?",
+    "reference_answer": "1. Réponse directe\nL’ECG 12 dérivations fait partie de l’évaluation initiale d’un patient présentant une suspicion d’arythmie ventriculaire. Il permet de caractériser le rythme et de rechercher des anomalies de conduction, de repolarisation ou d’autres signes pouvant orienter vers une cardiopathie structurelle ou une maladie électrique primaire.\n\n2. Critères cliniques et ECG\n- ECG 12 dérivations dans l’évaluation initiale\n- Caractérisation du rythme\n- Recherche d’anomalies de conduction\n- Recherche d’anomalies de repolarisation\n- Orientation vers une cardiopathie structurelle ou électrique\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ESC.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ESC"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 7,
+    "category": "ecg_reference",
+    "question": "Quelles sont les caractéristiques normales de l'onde P sur un ECG ?",
+    "reference_answer": "1. Réponse directe\nL’onde P normale correspond à la dépolarisation auriculaire. Sa morphologie, sa durée et son amplitude doivent rester compatibles avec une activation auriculaire normale selon les références ECG utilisées.\n\n2. Critères cliniques et ECG\n- Dépolarisation auriculaire\n- Morphologie\n- Durée\n- Amplitude\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ECG REFERENCE.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ECG REFERENCE"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 8,
+    "category": "ecg_reference",
+    "question": "Quelles sont les caractéristiques normales du complexe QRS et de l'onde T ?",
+    "reference_answer": "1. Réponse directe\nLe complexe QRS représente la dépolarisation ventriculaire et doit normalement rester étroit. L’onde T correspond principalement à la repolarisation ventriculaire ; son orientation et sa morphologie s’interprètent en fonction des dérivations.\n\n2. Critères cliniques et ECG\n- QRS : dépolarisation ventriculaire\n- QRS normalement étroit\n- Onde T : repolarisation ventriculaire\n- Interprétation selon les dérivations\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ECG REFERENCE.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ECG REFERENCE"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 9,
+    "category": "ecg_reference",
+    "question": "Comment reconnaître un trouble de conduction intraventriculaire sur un ECG ?",
+    "reference_answer": "1. Réponse directe\nUn trouble de conduction intraventriculaire est évoqué devant un élargissement du complexe QRS associé à une morphologie compatible avec un retard ou un bloc de conduction ventriculaire, notamment un bloc de branche.\n\n2. Critères cliniques et ECG\n- Élargissement du QRS\n- Morphologie de retard de conduction\n- Bloc de branche possible\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ECG REFERENCE.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ECG REFERENCE"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 10,
+    "category": "ecg_reference",
+    "question": "Quels signes ECG peuvent évoquer une hypertrophie ventriculaire gauche ?",
+    "reference_answer": "1. Réponse directe\nUne hypertrophie ventriculaire gauche peut être évoquée sur l’ECG par des critères de voltage associés, selon le contexte, à des modifications secondaires de repolarisation.\n\n2. Critères cliniques et ECG\n- Critères de voltage\n- Modifications secondaires de repolarisation\n- Interprétation selon le contexte\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ECG REFERENCE.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ECG REFERENCE"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 11,
+    "category": "ecg_reference",
+    "question": "Comment interpréter les modifications du segment ST dans un contexte d'ischémie myocardique aiguë ?",
+    "reference_answer": "1. Réponse directe\nDans un contexte d’ischémie myocardique aiguë, les modifications du segment ST doivent être interprétées selon leur amplitude, leur morphologie, leur localisation et les dérivations concernées. Un sus-décalage ou un sous-décalage du ST peut contribuer à l’orientation diagnostique avec les autres données cliniques.\n\n2. Critères cliniques et ECG\n- Amplitude du ST\n- Morphologie du ST\n- Localisation et dérivations\n- Sus-décalage ou sous-décalage selon le contexte\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ECG REFERENCE.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ECG REFERENCE"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 12,
+    "category": "ecg_reference",
+    "question": "Quels sont les principaux éléments techniques à vérifier lors de l'acquisition d'un ECG ?",
+    "reference_answer": "1. Réponse directe\nLors de l’acquisition d’un ECG, il faut vérifier la qualité du signal, le bon positionnement des électrodes, l’étalonnage, la vitesse d’enregistrement, l’absence d’artefacts et la cohérence des dérivations.\n\n2. Critères cliniques et ECG\n- Qualité du signal\n- Positionnement des électrodes\n- Étalonnage\n- Vitesse d’enregistrement\n- Artefacts\n- Cohérence des dérivations\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ECG REFERENCE.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ECG REFERENCE"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 13,
+    "category": "research",
+    "question": "Quelles méthodes de deep learning ont été utilisées pour la classification automatique des ECG avec PTB-XL ?",
+    "reference_answer": "1. Réponse directe\nLes travaux utilisant PTB-XL pour la classification automatique des ECG évaluent notamment des réseaux convolutifs et d’autres architectures de deep learning appliquées aux signaux ECG 12 dérivations.\n\n2. Critères cliniques et ECG\n- Réseaux convolutifs\n- Autres architectures profondes\n- Signaux ECG 12 dérivations\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : RESEARCH, PTB-XL.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "RESEARCH",
+      "PTB-XL"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 14,
+    "category": "research",
+    "question": "Comment le jeu de données PTB-XL est-il utilisé dans les travaux de classification ECG par apprentissage automatique ?",
+    "reference_answer": "1. Réponse directe\nPTB-XL est utilisé comme jeu de données de référence pour entraîner, valider et tester des modèles de classification ECG. Ses enregistrements et annotations diagnostiques permettent d’évaluer des tâches de classification supervisée.\n\n2. Critères cliniques et ECG\n- Entraînement\n- Validation\n- Test\n- Annotations diagnostiques\n- Classification supervisée\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : RESEARCH, PTB-XL.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "RESEARCH",
+      "PTB-XL"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 15,
+    "category": "research",
+    "question": "Quelles architectures de réseaux de neurones sont décrites dans les articles de recherche locaux pour l'analyse ECG ?",
+    "reference_answer": "1. Réponse directe\nLes articles de recherche locaux décrivent notamment des réseaux convolutifs et d’autres architectures profondes appliquées aux séries temporelles ECG afin d’apprendre automatiquement des représentations utiles à la classification ou à l’analyse.\n\n2. Critères cliniques et ECG\n- Réseaux convolutifs\n- Architectures profondes pour séries temporelles\n- Apprentissage de représentations\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : RESEARCH.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "RESEARCH"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 16,
+    "category": "research",
+    "question": "Quelles techniques sont utilisées pour numériser un ECG à partir d'une image ou d'un papier ECG ?",
+    "reference_answer": "1. Réponse directe\nLa numérisation d’un ECG à partir d’une image ou d’un papier ECG comprend généralement la détection ou la séparation de la grille et du tracé, la segmentation, la réduction des artefacts, l’extraction des courbes et la reconstruction d’un signal numérique exploitable.\n\n2. Critères cliniques et ECG\n- Détection/séparation grille-tracé\n- Segmentation\n- Réduction des artefacts\n- Extraction des courbes\n- Reconstruction numérique\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : RESEARCH.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "RESEARCH"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 17,
+    "category": "research",
+    "question": "Quelles sont les principales difficultés de la digitisation automatique des ECG papier décrites dans les articles de recherche ?",
+    "reference_answer": "1. Réponse directe\nLes principales difficultés de la digitisation automatique des ECG papier incluent les variations de qualité d’image, la grille de fond, le bruit et les artefacts, les différences d’échelle, la séparation des dérivations et la reconstruction fidèle du tracé.\n\n2. Critères cliniques et ECG\n- Qualité d’image\n- Grille de fond\n- Bruit et artefacts\n- Différences d’échelle\n- Séparation des dérivations\n- Reconstruction fidèle\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : RESEARCH.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "RESEARCH"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 18,
+    "category": "research",
+    "question": "Quels types de prétraitement ou d'extraction de caractéristiques sont utilisés dans les études basées sur PTB-XL ?",
+    "reference_answer": "1. Réponse directe\nLes études basées sur PTB-XL peuvent appliquer des prétraitements tels que la normalisation, le filtrage, le rééchantillonnage ou la segmentation temporelle. Certaines approches utilisent directement le signal brut tandis que d’autres apprennent ou extraient des représentations intermédiaires.\n\n2. Critères cliniques et ECG\n- Normalisation\n- Filtrage\n- Rééchantillonnage\n- Segmentation temporelle\n- Signal brut ou représentations apprises\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : RESEARCH, PTB-XL.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "RESEARCH",
+      "PTB-XL"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 19,
+    "category": "ptbxl",
+    "question": "Quels cas PTB-XL similaires peuvent être retrouvés pour une fibrillation atriale ?",
+    "reference_answer": "1. Réponse directe\nPour une requête décrivant une fibrillation atriale, le retriever PTB-XL doit retourner les enregistrements jugés les plus similaires. Les ECG ID retournés servent de références comparatives et ne constituent pas une confirmation diagnostique.\n\n2. Critères cliniques et ECG\n- Recherche de cas similaires\n- Retour d’ECG ID\n- Usage comparatif\n- Pas de confirmation diagnostique\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : PTB-XL.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "PTB-XL"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 20,
+    "category": "ptbxl",
+    "question": "Quels cas PTB-XL similaires peuvent être retrouvés pour un ECG présentant des anomalies de conduction ?",
+    "reference_answer": "1. Réponse directe\nPour une requête décrivant des anomalies de conduction, le retriever PTB-XL doit retourner les enregistrements les plus similaires. Les cas récupérés servent de références comparatives et ne constituent pas un diagnostic pour un nouveau patient.\n\n2. Critères cliniques et ECG\n- Recherche de cas similaires\n- Retour d’ECG ID\n- Usage comparatif\n- Pas de diagnostic autonome\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : PTB-XL.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "PTB-XL"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 21,
+    "category": "ptbxl",
+    "question": "Quels cas PTB-XL similaires peuvent être retrouvés pour un infarctus du myocarde ?",
+    "reference_answer": "1. Réponse directe\nPour une requête décrivant un infarctus du myocarde, le retriever PTB-XL doit retourner des enregistrements similaires et leurs ECG ID. Ces cas sont utilisés comme références comparatives dans le RAG.\n\n2. Critères cliniques et ECG\n- Recherche d’enregistrements similaires\n- Retour d’ECG ID\n- Usage comparatif dans le RAG\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : PTB-XL.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "PTB-XL"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 22,
+    "category": "ptbxl",
+    "question": "Quels cas PTB-XL similaires peuvent être retrouvés pour des anomalies ST-T ?",
+    "reference_answer": "1. Réponse directe\nPour une requête portant sur des anomalies ST-T, le retriever PTB-XL doit retourner des enregistrements similaires et leurs ECG ID afin de fournir des cas comparatifs issus de la base.\n\n2. Critères cliniques et ECG\n- Recherche d’enregistrements similaires\n- Retour d’ECG ID\n- Comparaison d’anomalies ST-T\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : PTB-XL.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "PTB-XL"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 23,
+    "category": "ptbxl",
+    "question": "Quels cas PTB-XL similaires peuvent être retrouvés pour une hypertrophie cardiaque ?",
+    "reference_answer": "1. Réponse directe\nPour une requête décrivant une hypertrophie cardiaque, le retriever PTB-XL doit retourner les cas les plus similaires. Les ECG ID récupérés servent de références comparatives et ne confirment pas à eux seuls un diagnostic.\n\n2. Critères cliniques et ECG\n- Recherche de cas similaires\n- Retour d’ECG ID\n- Usage comparatif\n- Pas de confirmation diagnostique\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : PTB-XL.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "PTB-XL"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 24,
+    "category": "web_recent",
+    "question": "Quelles sont les méthodes récentes en 2026 pour détecter la fibrillation atriale sur ECG ?",
+    "reference_answer": "1. Réponse directe\nLes travaux récents sur la détection de la fibrillation atriale par ECG utilisent notamment des approches de deep learning, des réseaux convolutifs, des modèles adaptés aux séries temporelles et, selon les études, des méthodes d’apprentissage auto-supervisé. Les résultats doivent être interprétés selon les jeux de données et protocoles d’évaluation utilisés.\n\n2. Critères cliniques et ECG\n- Deep learning\n- Réseaux convolutifs\n- Modèles de séries temporelles\n- Apprentissage auto-supervisé selon les études\n- Dépendance au protocole d’évaluation\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : WEB.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "WEB"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 25,
+    "category": "web_recent",
+    "question": "Quelles approches récentes en 2026 utilisent l'apprentissage auto-supervisé pour l'analyse ECG ?",
+    "reference_answer": "1. Réponse directe\nLes approches récentes d’apprentissage auto-supervisé appliquées à l’ECG cherchent à apprendre des représentations utiles à partir de signaux non annotés ou faiblement annotés, puis à les adapter à des tâches telles que la classification ou la détection d’arythmies.\n\n2. Critères cliniques et ECG\n- Apprentissage auto-supervisé\n- Signaux non annotés ou faiblement annotés\n- Préapprentissage de représentations\n- Adaptation à des tâches aval\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : WEB.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "WEB"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 26,
+    "category": "web_recent",
+    "question": "Quelles sont les méthodes récentes pour détecter les arythmies à partir d'ECG portables ou de montres connectées ?",
+    "reference_answer": "1. Réponse directe\nLes méthodes récentes pour les ECG portables ou les montres connectées combinent traitement du signal et apprentissage automatique afin de détecter des rythmes anormaux, notamment la fibrillation atriale, à partir de signaux acquis en ambulatoire.\n\n2. Critères cliniques et ECG\n- Traitement du signal\n- Machine learning\n- ECG ambulatoire\n- Détection de rythmes anormaux\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : WEB.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "WEB"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 27,
+    "category": "web_recent",
+    "question": "Quelles études récentes utilisent PTB-XL pour développer des modèles de classification ou de détection ECG ?",
+    "reference_answer": "1. Réponse directe\nDes études récentes utilisent PTB-XL comme benchmark pour entraîner et comparer des modèles de classification ou de détection ECG, notamment des architectures de deep learning et des méthodes de représentation apprises sur des ECG 12 dérivations.\n\n2. Critères cliniques et ECG\n- PTB-XL comme benchmark\n- Classification/détection ECG\n- Deep learning\n- Représentations apprises\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : WEB, PTB-XL.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "WEB",
+      "PTB-XL"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 28,
+    "category": "mixed",
+    "question": "Quelles sont les méthodes récentes en 2026 pour détecter la fibrillation atriale sur ECG, comment se comparent-elles aux critères diagnostiques ESC et quels cas PTB-XL similaires peuvent être retrouvés ?",
+    "reference_answer": "1. Réponse directe\nLes méthodes récentes de détection automatique de la fibrillation atriale utilisent des modèles d’apprentissage profond ou auto-supervisé, tandis que les recommandations ESC reposent sur des critères diagnostiques ECG explicites. Les cas PTB-XL récupérés peuvent servir de références comparatives sans remplacer la confirmation clinique.\n\n2. Critères cliniques et ECG\n- Méthodes automatiques récentes\n- Critères diagnostiques ESC\n- Cas PTB-XL comparatifs\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ESC, WEB, PTB-XL.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ESC",
+      "WEB",
+      "PTB-XL"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 29,
+    "category": "mixed",
+    "question": "Comment les critères ECG techniques de fibrillation atriale décrits dans les références ECG se comparent-ils aux recommandations ESC et aux approches de deep learning récentes ?",
+    "reference_answer": "1. Réponse directe\nLes références ECG et les recommandations ESC décrivent les caractéristiques électrocardiographiques utilisées pour reconnaître la fibrillation atriale, tandis que les approches de deep learning apprennent automatiquement des représentations du signal pour la détecter. Ces approches sont complémentaires mais n’ont pas le même rôle clinique.\n\n2. Critères cliniques et ECG\n- Critères ECG explicites\n- Recommandations ESC\n- Représentations apprises par deep learning\n- Rôles complémentaires\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ESC, ECG REFERENCE, RESEARCH, WEB.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ESC",
+      "ECG REFERENCE",
+      "RESEARCH",
+      "WEB"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  },
+  {
+    "id": 30,
+    "category": "mixed",
+    "question": "Pour une suspicion de fibrillation atriale, quelles informations peuvent être obtenues à partir des guidelines ESC, des références ECG, des articles de recherche, des cas PTB-XL et de la littérature Web récente ?",
+    "reference_answer": "1. Réponse directe\nPour une suspicion de fibrillation atriale, les guidelines ESC apportent les critères diagnostiques et les recommandations cliniques, les références ECG décrivent les caractéristiques techniques du tracé, les articles de recherche documentent les méthodes d’analyse automatisée, PTB-XL fournit des cas comparatifs et la littérature Web récente complète ces éléments par des travaux plus récents.\n\n2. Critères cliniques et ECG\n- Guidelines ESC\n- Références ECG\n- Articles de recherche\n- PTB-XL\n- Littérature Web récente\n\n3. Justification documentaire\nCette réponse de référence doit être soutenue par les sources attendues pour cette question : ESC, ECG REFERENCE, RESEARCH, PTB-XL, WEB.\n\n4. Limites du contexte\nLa référence se limite aux éléments nécessaires pour répondre à la question et n’ajoute pas de seuil, de résultat, d’ECG ID ou de conclusion qui ne soit pas explicitement documenté par les sources utilisées.\n\n5. Avertissement médical\nCette réponse constitue une aide à la décision clinique uniquement. Elle ne remplace en aucun cas le jugement d’un médecin qualifié. Toute décision diagnostique ou thérapeutique doit être validée par un professionnel de santé.",
+    "expected_sources": [
+      "ESC",
+      "ECG REFERENCE",
+      "RESEARCH",
+      "PTB-XL",
+      "WEB"
+    ],
+    "ecg_input_path": "",
+    "ecg_required": false
+  }
+]
