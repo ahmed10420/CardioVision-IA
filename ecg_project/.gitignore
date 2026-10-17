@@ -4,5 +4,4 @@ __pycache__/
 venv/
 outputs/*
 !outputs/.gitkeep
-models/M3/nnUNet_results/
 *.log
